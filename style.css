@@ -307,11 +307,15 @@ img {
 }
 
 .skills-js {
-  width: 65%;
+  width: 50%;
 }
 
-.skills-ux {
+.skills-python {
   width: 85%;
+}
+
+.skills-php {
+  width: 30%;
 }
 
 .skills-img {
